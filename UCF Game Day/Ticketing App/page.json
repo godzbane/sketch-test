@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "922605DF-EDFA-422B-BD4B-A8DF2AFFBAD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -305,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "F127B2C2-3C79-4996-9629-A5DA7ECE4F97"
+    },
+    {
+      "class": "bitmap",
+      "id": "2432FABA-264E-4FE4-98F6-AB758E7B43BB"
+    },
+    {
+      "class": "artboard",
+      "id": "8BBBF1CA-0DF4-4522-B477-34EAFDF04B50"
+    },
+    {
+      "class": "artboard",
+      "id": "4240D35F-7A74-40E6-94B7-9254C6176C7E"
+    }
+  ],
+  "name": "Ticketing App",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -213,
+    "guides": [
+    ]
+  }
+}

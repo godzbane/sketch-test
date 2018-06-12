@@ -1,0 +1,93 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F127B2C2-3C79-4996-9629-A5DA7ECE4F97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA8D7C8E-82DE-432D-BB4F-E15F1B76E324",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8F3C0AC-9ED0-4BF7-86AE-C8A5D72943B7",
+    "height": 667,
+    "width": 375,
+    "x": -38,
+    "y": -184
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "947E8D24-69DE-4479-AFBD-20A4E84A4978",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0D9114D1-ADE1-44AB-AB2D-2EA65F601D95"
+    },
+    {
+      "class": "group",
+      "id": "7BF83FB3-4C15-40A5-B6CD-63BF4439BD28"
+    },
+    {
+      "class": "group",
+      "id": "B37D5A4E-364A-4190-88A1-A186BBC9D563"
+    },
+    {
+      "class": "group",
+      "id": "118FD448-E767-4666-8568-96BB4AB67DFE"
+    }
+  ],
+  "name": "iPhone 8",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8BA7DA8-0451-4DB6-B783-39A79B568A1C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "23ECB752-53D7-4ACC-A748-335A461C75B3",
+    "guides": [
+    ]
+  }
+}
